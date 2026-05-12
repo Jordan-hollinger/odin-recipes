@@ -1,0 +1,1 @@
+This project demonstrates the basic HTML building blocks, including the primary page setup, tags for headings, attributes etc.
